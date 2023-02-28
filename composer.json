@@ -14,7 +14,7 @@
     "superbalist/flysystem-google-storage": "^7.2.2",
     "illuminate/filesystem": "^5.1|^6.0|^7.0|^8.0|^9.0|^10.0",
     "league/flysystem-cached-adapter": "^1.1",
-    "league/flysystem": "1.1.10"
+    "league/flysystem": "1.1.9"
   },
   "autoload": {
     "psr-4": {
